@@ -22,6 +22,7 @@ Implement the function in a way that it follows the given specifications.
 
 Example
 Input: n = 15
+
 Output:
 1
 2
